@@ -1,0 +1,35 @@
+This is a file with sample inputs. Run the file and follow
+the instructions
+
+_____________________________________________
+Hotel_Madhu Blore 12
+
+S 100 false
+S 200 true
+S 100 false
+S 200 true
+
+D 200 false
+D 300 true
+D 200 false
+D 300 true
+
+L 300 false
+L 400 true
+L 300 false
+L 400 true
+
+
+
+1
+
+101 Madhu madhu@gmail.com 4
+
+1
+
+102 Rish rish@gmail.com 7
+________________________________________________
+
+
+
+From there on, you can play around, and go nuts !
