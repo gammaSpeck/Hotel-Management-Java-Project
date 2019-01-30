@@ -1,0 +1,27 @@
+It is very simple to test this Project.
+
+Prequisites: Have Java and JDK installed in your system
+
+You can run this Project either from an IDE of your choice.
+I suggest Eclipse :-)
+
+Or you can run it the old fashined way: Through the Terminal or
+cmd. Just open the terminal/cmd and navigate to the folder
+where you've downloaded the files.
+
+Type in the following commands:
+> javac Hotel.java		
+> java Hotel
+
+
+
+The javac is the Java Compiler 
+
+If you're running this on a Linux Machine, KUDOS ! 
+If you're running this on a windows cmd, it may 
+not work if your PATH c]variables may not have been configured.
+No worries, in that case just google 
+"How to configure PATH variables for java in Windows"
+
+
+Enjoy :)
