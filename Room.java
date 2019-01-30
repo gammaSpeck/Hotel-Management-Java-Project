@@ -1,3 +1,5 @@
+/* 	@author Madhusoodhanan KM 	*/
+
 
 class Room {
 	// Each time a new Room is created by Hotel, roomNo is 100, but a roomCounter in the Hotel class increments it each time
